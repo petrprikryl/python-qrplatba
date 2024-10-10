@@ -19,8 +19,8 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
-qrcode = "^7.4"
+python = "^3.9"
+qrcode = "^8.0"
 
 [tool.poetry.group.test]
 optional = true
